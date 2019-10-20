@@ -1,5 +1,3 @@
-#task-1
-
 class Student:
                  
     def setId (self,i):
