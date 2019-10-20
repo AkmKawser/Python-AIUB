@@ -3,19 +3,19 @@
 class Student:
                  
     def setIdd (self,i):
-        idd=i        
+        self.idd=i        
     def setName (self,n):
-        name=n
+        self.name=n
     def setCgpa (self,c):
-        cgpa=c
+        self.cgpa=c
 
 
     def getIdd(self):
-        return idd
+        return self.idd
     def getName(self):
-        return name
+        return self.name
     def getCgpa(self):
-        return cgpa
+        return self.cgpa
 
 
 s=Student()  #created object using Student() constructor
