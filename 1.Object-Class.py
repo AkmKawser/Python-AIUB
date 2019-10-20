@@ -1,28 +1,24 @@
 #task-1
 
 class Student:
-    def __init__(self,idd,name,cgpa):
-        self.idd=idd
-        self.name=name
-        self.cgpa=cgpa
-
-    def setIdd (i):
-        idd=i
-    def setName (n):
+                 
+    def setIdd (self,i):
+        idd=i        
+    def setName (self,n):
         name=n
-    def setCgpa (c):
+    def setCgpa (self,c):
         cgpa=c
 
 
-    def getIdd():
+    def getIdd(self):
         return idd
-    def getName():
+    def getName(self):
         return name
-    def getCgpa():
+    def getCgpa(self):
         return cgpa
 
 
-s=Student()
+s=Student()  #created object using Student() constructor
 s.setIdd(15)
 s.setName("Kawser")
 s.setCgpa(4)
@@ -31,10 +27,3 @@ print(s.getIdd)
 print(s.getName)
 print(s.getCgpa)
     
-        
-        
-     
-    
-    
-
-
