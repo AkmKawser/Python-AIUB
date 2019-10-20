@@ -1,7 +1,7 @@
 #task-1
 
 class Student:
-    def _init_(self,idd,name,cgpa):
+    def __init__(self,idd,name,cgpa):
         self.idd=idd
         self.name=name
         self.cgpa=cgpa
