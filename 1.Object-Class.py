@@ -23,7 +23,7 @@ s.setIdd(15)
 s.setName("Kawser")
 s.setCgpa(4)
 
-print(s.getIdd)
-print(s.getName)
-print(s.getCgpa)
+print(s.getIdd())
+print(s.getName())
+print(s.getCgpa())
     
