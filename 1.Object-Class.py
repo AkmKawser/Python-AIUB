@@ -26,4 +26,3 @@ s.setCgpa(4)
 print(s.getIdd())
 print(s.getName())
 print(s.getCgpa())
-    
