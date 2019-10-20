@@ -2,16 +2,16 @@
 
 class Student:
                  
-    def setIdd (self,i):
-        self.idd=i        
+    def setId (self,i):
+        self.id=i        
     def setName (self,n):
         self.name=n
     def setCgpa (self,c):
         self.cgpa=c
 
 
-    def getIdd(self):
-        return self.idd
+    def getId(self):
+        return self.id
     def getName(self):
         return self.name
     def getCgpa(self):
@@ -19,10 +19,11 @@ class Student:
 
 
 s=Student()  #created object using Student() constructor
-s.setIdd(15)
+s.setId(15)
 s.setName("Kawser")
 s.setCgpa(4)
 
-print(s.getIdd())
+print(s.getId())
 print(s.getName())
 print(s.getCgpa())
+    
