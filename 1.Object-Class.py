@@ -1,6 +1,6 @@
 class Student:
                  
-    def setId (self,i):     #for more efficiency we can replace all these set methods with a single parametarized __init__() method.
+    def setId (self,i):     #for more efficiency we can replace all these set methods with a single parametarized constructor __init__() method.
         self.id=i        
     def setName (self,n):
         self.name=n
