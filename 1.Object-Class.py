@@ -1,3 +1,14 @@
+#QUESTION-1
+#Write a class Student that has the following attributes:
+# int id
+# String name
+# double cgpa
+#There is a set method and a get method for each of the attributes. There is also a main method
+#in this class. Inside the main method create one object of the Student class and demonstrate
+#all the methods.
+
+
+
 class Student:
                  
     def setId (self,i):     #for more efficiency we can replace all these set methods with a single parametarized constructor __init__() method.
