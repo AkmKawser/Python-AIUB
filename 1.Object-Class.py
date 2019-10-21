@@ -1,5 +1,5 @@
 #QUESTION-1
-#Write a class Student that has the following attributes:
+#Write a class "Student" that has the following attributes:
 # integer type "id"
 # String type "name"
 # double type "cgpa"
