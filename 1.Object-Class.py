@@ -29,7 +29,7 @@ class Student:
 s=Student()  #created object using Student() constructor
 s.setId(15)
 s.setName("Kawser")
-s.setCgpa(4)
+s.setCgpa(4.0)
 
 print(s.getId())
 print(s.getName())
