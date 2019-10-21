@@ -3,8 +3,7 @@
 # int id
 # String name
 # double cgpa
-#There is a set method and a get method for each of the attributes. There is also a main method
-#in this class. Inside the main method create one object of the Student class and demonstrate
+#There is a set method and a get method for each of the attributes.Create one object of the Student class and demonstrate
 #all the methods.
 
 
