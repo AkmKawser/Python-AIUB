@@ -3,8 +3,7 @@
 # integer type "id"
 # String type "name"
 # double type "cgpa"
-#There is a "set method" and a "get method" for each of the attributes.Create one object of the Student class and demonstrate
-#all the methods.
+#There is a "set method" and a "get method" for each of the attributes.Create one object of the Student class and demonstrate all the methods.
 
 
 
