@@ -1,12 +1,11 @@
 class Student:
                  
-    def setId (self,i):
+    def setId (self,i):     #for more efficiency we can replace all these set methods with a single parametarized __init__() method.
         self.id=i        
     def setName (self,n):
         self.name=n
     def setCgpa (self,c):
         self.cgpa=c
-
 
     def getId(self):
         return self.id
