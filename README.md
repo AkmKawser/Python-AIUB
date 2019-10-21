@@ -1,2 +1,2 @@
 # Python-AIUB
-#Complete Series with question and implementation also detail documentation
+#Complete Series with questions and implementations also detail documentation
